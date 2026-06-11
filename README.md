@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi there, I'm Prashant Chauhan 👋
 
 ### ⚡ Automating the boring. Engineering the impactful.
