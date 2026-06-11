@@ -25,66 +25,7 @@ With experience across software development, automation, business intelligence, 
 - Expanding my cloud and system design expertise
 
 
-## 🛠️ Tech Stack
 
-### Languages
-- Python
-- SQL
-
-### Backend Development
-- Flask
-- Django
-- FastAPI
-- REST APIs
-
-### Data & Analytics
-- Power BI
-- Tableau
-- Data Analysis
-- Dashboard Development
-- Data Visualization
-
-### Databases
-- SQL Databases
-- Database Design
-- Query Optimization
-
-### Tools & Technologies
-- Git & GitHub
-- Oracle Cloud Infrastructure
-- ERP & WMS Systems
-- Technical Documentation
-
-
-
-## 📌 Featured Areas of Interest
-
-- Backend Engineering
-- Data Analytics
-- Business Intelligence
-- Automation
-- API Development
-- Cloud Technologies
-
-
-
-## 📈 Career Highlights
-
-🏆 Automated compliance reporting workflows, saving **40+ hours/month**
-
-🏆 Built analytics dashboards that improved **student retention by 7%**
-
-🏆 Developed campaign reporting dashboards that increased **CTR by 12%**
-
-🏆 Successfully led a **zero-downtime email migration project**
-
-
-## 🌱 Currently Learning
-
-- Advanced FastAPI Development
-- Cloud Architecture
-- System Design
-- Data Engineering
 ## 📫 Let's Connect
 
 📧 Email: **prashantranam@gmail.com**
